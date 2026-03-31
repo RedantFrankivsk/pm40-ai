@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "time": "2026-03-19 15:23:04.915354",
+        "symbol": "AUDUSD",
+        "signal": "SELL",
+        "confidence": 95,
+        "regime": "TREND",
+        "expiration": 15,
+        "entry_price": 0.70016,
+        "result": "LOSS"
+    },
+    {
+        "id": 2,
+        "time": "2026-03-19 15:38:44.625991",
+        "symbol": "EURJPY",
+        "signal": "SELL",
+        "confidence": 95,
+        "regime": "TREND",
+        "expiration": 15,
+        "entry_price": 182.17349,
+        "tf_features": {
+            "M15": {
+                "trend": "down",
+                "volume": "normal",
+                "volatility": "high",
+                "structure": "breakout_down"
+            },
+            "M30": {
+                "trend": "down",
+                "volume": "normal",
+                "volatility": "high",
+                "structure": "breakout_down"
+            },
+            "H1": {
+                "trend": "down",
+                "volume": "normal",
+                "volatility": "high",
+                "structure": "breakout_down"
+            }
+        },
+        "result": "LOSS"
+    }
+]

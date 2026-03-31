@@ -1,0 +1,8 @@
+[
+    {
+        "entry_pattern": "normal_volume pullback trend_market",
+        "direction": "follow_trend",
+        "risk_model": "fixed",
+        "confidence": 0.843
+    }
+]

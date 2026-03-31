@@ -1,0 +1,5 @@
+{
+    "signal_threshold": 0.5,
+    "strong_threshold": 0.72,
+    "neutral_zone": 0.05
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "entry_pattern": "pullback trend_market",
+        "direction": "reversal",
+        "risk_model": "adaptive",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "normal_volume pullback",
+        "direction": "reversal",
+        "risk_model": "fixed",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "normal_volume pullback",
+        "direction": "follow_trend",
+        "risk_model": "adaptive",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "pullback trend_market",
+        "direction": "follow_trend",
+        "risk_model": "fixed",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "pullback trend_market",
+        "direction": "reversal",
+        "risk_model": "fixed",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "pullback trend_market",
+        "direction": "reversal",
+        "risk_model": "fixed",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "pullback trend_market",
+        "direction": "reversal",
+        "risk_model": "adaptive",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "normal_volume pullback",
+        "direction": "reversal",
+        "risk_model": "fixed",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "normal_volume pullback",
+        "direction": "follow_trend",
+        "risk_model": "adaptive",
+        "parent_confidence": 0.843
+    },
+    {
+        "entry_pattern": "normal_volume pullback",
+        "direction": "reversal",
+        "risk_model": "fixed",
+        "parent_confidence": 0.843
+    }
+]

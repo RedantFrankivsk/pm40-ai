@@ -1,0 +1,32 @@
+[
+    {
+        "pattern": [
+            "breakout",
+            "pullback",
+            "session_london",
+            "trend_market"
+        ],
+        "experiment_winrate": 0.616,
+        "forward_winrate": 0.621
+    },
+    {
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.603,
+        "forward_winrate": 0.644
+    },
+    {
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.611,
+        "forward_winrate": 0.619
+    }
+]

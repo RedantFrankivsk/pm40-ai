@@ -1,0 +1,343 @@
+[
+    {
+        "name": "breakout_pullback_trend_market_high_volume_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "high_volume"
+        ],
+        "experiment_winrate": 0.615,
+        "forward_winrate": 0.6
+    },
+    {
+        "name": "breakout_pullback_trend_market_low_volume_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "low_volume"
+        ],
+        "experiment_winrate": 0.645,
+        "forward_winrate": 0.617
+    },
+    {
+        "name": "breakout_pullback_trend_market_session_london_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "session_london"
+        ],
+        "experiment_winrate": 0.63,
+        "forward_winrate": 0.55
+    },
+    {
+        "name": "breakout_pullback_trend_market_volatility_low_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "volatility_low"
+        ],
+        "experiment_winrate": 0.66,
+        "forward_winrate": 0.6
+    },
+    {
+        "name": "low_volume_pullback_trend_market_high_volume_brain",
+        "pattern": [
+            "low_volume",
+            "pullback",
+            "trend_market",
+            "high_volume"
+        ],
+        "experiment_winrate": 0.615,
+        "forward_winrate": 0.617
+    },
+    {
+        "name": "low_volume_pullback_trend_market_volatility_high_brain",
+        "pattern": [
+            "low_volume",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.605,
+        "forward_winrate": 0.7
+    },
+    {
+        "name": "breakout_low_volume_range_market_volatility_high_brain",
+        "pattern": [
+            "breakout",
+            "low_volume",
+            "range_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.6,
+        "forward_winrate": 0.65
+    },
+    {
+        "name": "trend_market_pullback_volatility_low_breakout_brain",
+        "pattern": [
+            "trend_market",
+            "pullback",
+            "volatility_low",
+            "breakout"
+        ],
+        "experiment_winrate": 0.66,
+        "forward_winrate": 0.6,
+        "genetic": true
+    },
+    {
+        "name": "trend_market_pullback_session_london_breakout_brain",
+        "pattern": [
+            "trend_market",
+            "pullback",
+            "session_london",
+            "breakout"
+        ],
+        "experiment_winrate": 0.63,
+        "forward_winrate": 0.55,
+        "genetic": true
+    },
+    {
+        "name": "trend_market_low_volume_high_volume_pullback_breakout_brain",
+        "pattern": [
+            "trend_market",
+            "low_volume",
+            "high_volume",
+            "pullback",
+            "breakout"
+        ],
+        "experiment_winrate": 0.615,
+        "forward_winrate": 0.609,
+        "genetic": true
+    },
+    {
+        "name": "trend_market_low_volume_high_volume_pullback_breakout_brain",
+        "pattern": [
+            "trend_market",
+            "low_volume",
+            "high_volume",
+            "pullback",
+            "breakout"
+        ],
+        "experiment_winrate": 0.615,
+        "forward_winrate": 0.609,
+        "genetic": true
+    },
+    {
+        "name": "trend_market_pullback_volatility_low_breakout_brain",
+        "pattern": [
+            "trend_market",
+            "pullback",
+            "volatility_low",
+            "breakout"
+        ],
+        "experiment_winrate": 0.66,
+        "forward_winrate": 0.6,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_trend_market_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "trend_market"
+        ],
+        "experiment_winrate": 0.615,
+        "forward_winrate": 0.609,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_session_london_trend_market_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "session_london",
+            "trend_market"
+        ],
+        "experiment_winrate": 0.623,
+        "forward_winrate": 0.58,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_trend_market_volatility_high_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.61,
+        "forward_winrate": 0.654,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_trend_market_volatility_low_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "trend_market",
+            "volatility_low"
+        ],
+        "experiment_winrate": 0.637,
+        "forward_winrate": 0.605,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_range_market_trend_market_volatility_high_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "range_market",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.607,
+        "forward_winrate": 0.629,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_range_market_session_london_trend_market_volatility_high_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "range_market",
+            "session_london",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.619,
+        "forward_winrate": 0.59,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_range_market_session_london_trend_market_volatility_high_volatility_low_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "range_market",
+            "session_london",
+            "trend_market",
+            "volatility_high",
+            "volatility_low"
+        ],
+        "experiment_winrate": 0.628,
+        "forward_winrate": 0.597,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_low_volume_pullback_session_london_trend_market_volatility_low_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "session_london",
+            "trend_market",
+            "volatility_low"
+        ],
+        "experiment_winrate": 0.641,
+        "forward_winrate": 0.59,
+        "genetic": true
+    },
+    {
+        "name": "high_volume_low_volume_pullback_trend_market_brain",
+        "pattern": [
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "trend_market"
+        ],
+        "experiment_winrate": 0.615,
+        "forward_winrate": 0.617,
+        "genetic": true
+    },
+    {
+        "name": "breakout_pullback_session_london_trend_market_volatility_low_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "session_london",
+            "trend_market",
+            "volatility_low"
+        ],
+        "experiment_winrate": 0.645,
+        "forward_winrate": 0.575,
+        "genetic": true
+    },
+    {
+        "name": "breakout_pullback_session_london_trend_market_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "session_london",
+            "trend_market"
+        ],
+        "experiment_winrate": 0.616,
+        "forward_winrate": 0.621
+    },
+    {
+        "name": "breakout_pullback_trend_market_volatility_high_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.603,
+        "forward_winrate": 0.644
+    },
+    {
+        "name": "breakout_pullback_trend_market_volatility_high_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.611,
+        "forward_winrate": 0.619
+    },
+    {
+        "name": "high_volume_low_volume_pullback_trend_market_volatility_high_brain",
+        "pattern": [
+            "high_volume",
+            "low_volume",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "experiment_winrate": 0.61,
+        "forward_winrate": 0.658,
+        "genetic": true
+    },
+    {
+        "name": "breakout_high_volume_pullback_trend_market_volatility_low_brain",
+        "pattern": [
+            "breakout",
+            "high_volume",
+            "pullback",
+            "trend_market",
+            "volatility_low"
+        ],
+        "experiment_winrate": 0.637,
+        "forward_winrate": 0.6,
+        "genetic": true
+    }
+]

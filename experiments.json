@@ -1,0 +1,101 @@
+[
+    {
+        "pattern": "normal_volume pullback trend_market",
+        "direction": "reversal",
+        "risk": "fixed",
+        "trades": 2,
+        "wins": 2,
+        "winrate": 1.0,
+        "status": "testing"
+    },
+    {
+        "pattern": "strong_trend pullback",
+        "direction": "follow_trend",
+        "risk": "adaptive",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "volatility_normal trend_market normal_volume",
+        "direction": "follow_trend",
+        "risk": "dynamic",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "normal_volume pullback session_london",
+        "direction": "follow_trend",
+        "risk": "dynamic",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "normal_volume strong_trend session_london",
+        "direction": "breakout",
+        "risk": "fixed",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "trend_market pullback normal_volume",
+        "direction": "reversal",
+        "risk": "fixed",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "strong_trend pullback session_london",
+        "direction": "breakout",
+        "risk": "adaptive",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "volatility_normal trend_market normal_volume",
+        "direction": "follow_trend",
+        "risk": "fixed",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "volatility_normal normal_volume",
+        "direction": "breakout",
+        "risk": "adaptive",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "normal_volume trend_market volatility_normal",
+        "direction": "reversal",
+        "risk": "dynamic",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    },
+    {
+        "pattern": "volatility_normal pullback",
+        "direction": "follow_trend",
+        "risk": "fixed",
+        "trades": 0,
+        "wins": 0,
+        "winrate": 0,
+        "status": "testing"
+    }
+]

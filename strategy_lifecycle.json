@@ -1,0 +1,10 @@
+[
+    {
+        "entry_pattern": "normal_volume pullback",
+        "direction": "follow_trend",
+        "risk_model": "adaptive",
+        "state": "testing",
+        "trades": 3,
+        "wins": 2
+    }
+]

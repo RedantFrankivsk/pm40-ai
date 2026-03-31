@@ -1,0 +1,11 @@
+{
+    "survivors": [
+        {
+            "pattern": "normal_volume pullback trend_market",
+            "trades": 9,
+            "winrate": 0.667,
+            "confidence": 0.843
+        }
+    ],
+    "extinct": []
+}

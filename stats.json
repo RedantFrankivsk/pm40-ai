@@ -1,0 +1,35 @@
+{
+  "global": {
+    "wins": 22,
+    "losses": 7,
+    "loss_streak": 0,
+    "cooldown": 0
+  },
+  "by_signal": {
+    "UP": {
+      "wins": 9,
+      "losses": 3
+    },
+    "DOWN": {
+      "wins": 10,
+      "losses": 4
+    },
+    "NEUTRAL": {
+      "skips": 8
+    }
+  },
+  "by_tf": {
+    "M5": {
+      "wins": 11,
+      "losses": 4
+    },
+    "M15": {
+      "wins": 7,
+      "losses": 2
+    },
+    "H1": {
+      "wins": 4,
+      "losses": 1
+    }
+  }
+}

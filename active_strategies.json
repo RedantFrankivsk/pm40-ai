@@ -1,0 +1,20 @@
+[
+    {
+        "pattern": "normal_volume pullback trend_market",
+        "direction": "reversal",
+        "risk": "adaptive",
+        "confidence": 0.0
+    },
+    {
+        "pattern": "normal_volume pullback trend_market",
+        "direction": "follow_trend",
+        "risk": "adaptive",
+        "confidence": 0.0
+    },
+    {
+        "pattern": "normal_volume pullback trend_market",
+        "direction": "follow_trend",
+        "risk": "fixed",
+        "confidence": 0.0
+    }
+]

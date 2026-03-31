@@ -1,0 +1,140 @@
+[
+    {
+        "pattern": [
+            "breakout",
+            "pullback",
+            "session_london",
+            "trend_market"
+        ],
+        "base_pattern": [
+            "breakout",
+            "pullback",
+            "trend_market"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.616
+    },
+    {
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "base_pattern": [
+            "breakout",
+            "pullback",
+            "trend_market"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.603
+    },
+    {
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "base_pattern": [
+            "breakout",
+            "pullback",
+            "trend_market"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.611
+    },
+    {
+        "pattern": [
+            "low_volume",
+            "pullback",
+            "volatility_low"
+        ],
+        "base_pattern": [
+            "low_volume",
+            "pullback"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.573
+    },
+    {
+        "pattern": [
+            "high_volume",
+            "low_volume",
+            "pullback"
+        ],
+        "base_pattern": [
+            "low_volume",
+            "pullback"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.554
+    },
+    {
+        "pattern": [
+            "low_volume",
+            "pullback",
+            "volatility_low"
+        ],
+        "base_pattern": [
+            "low_volume",
+            "pullback"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.591
+    },
+    {
+        "pattern": [
+            "breakout",
+            "low_volume",
+            "range_market",
+            "volatility_high"
+        ],
+        "base_pattern": [
+            "breakout",
+            "range_market",
+            "volatility_high"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.592
+    },
+    {
+        "pattern": [
+            "breakout",
+            "low_volume",
+            "range_market",
+            "volatility_high"
+        ],
+        "base_pattern": [
+            "breakout",
+            "range_market",
+            "volatility_high"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.592
+    },
+    {
+        "pattern": [
+            "breakout",
+            "range_market",
+            "session_newyork",
+            "volatility_high"
+        ],
+        "base_pattern": [
+            "breakout",
+            "range_market",
+            "volatility_high"
+        ],
+        "source_winrate": 0.57,
+        "tested": true,
+        "experiment_winrate": 0.582
+    }
+]

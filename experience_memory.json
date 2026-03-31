@@ -1,0 +1,272 @@
+[
+    {
+        "time": "2026-03-26T20:15:07.596391",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:DOWN_TREND_DOWN|M15:DOWN_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T20:15:09.728572",
+        "symbol": "USD/JPY",
+        "signal": "UP",
+        "result": "LOSS",
+        "pattern": "H1:UP_TREND_UP|M15:UP_PULLBACK_UP|M30:UP_PULLBACK_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T20:30:05.636731",
+        "symbol": "GBP/USD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:DOWN_TREND_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T20:30:07.841627",
+        "symbol": "AUD/USD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:DOWN_TREND_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T20:30:10.315672",
+        "symbol": "USD/CAD",
+        "signal": "UP",
+        "result": "WIN",
+        "pattern": "H1:UP_TREND_UP|M15:UP_TREND_UP|M30:UP_TREND_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T20:45:08.546885",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:DOWN_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T21:00:03.492706",
+        "symbol": "USD/JPY",
+        "signal": "UP",
+        "result": "WIN",
+        "pattern": "H1:UP_PULLBACK_UP|M15:UP_TREND_UP|M30:UP_PULLBACK_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T21:00:05.681949",
+        "symbol": "AUD/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:DOWN_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T21:22:11.678664",
+        "symbol": "GBP/USD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:NEUTRAL_range_FLAT|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T21:22:13.869293",
+        "symbol": "USD/CAD",
+        "signal": "UP",
+        "result": "WIN",
+        "pattern": "H1:UP_PULLBACK_UP|M15:UP_TREND_UP|M30:UP_TREND_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T21:22:16.083800",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:UP_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-26T21:22:18.248071",
+        "symbol": "AUD/USD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:UP_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T07:45:06.464307",
+        "symbol": "USD/JPY",
+        "signal": "UP",
+        "result": "WIN",
+        "pattern": "H1:UP_TREND_UP|M15:DOWN_TREND_UP|M30:UP_TREND_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T07:45:09.760345",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:UP_TREND_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T07:45:13.324272",
+        "symbol": "GBP/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_TREND_DOWN|M15:UP_TREND_DOWN|M30:DOWN_TREND_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T07:45:16.777050",
+        "symbol": "AUD/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T07:45:20.788951",
+        "symbol": "USD/CAD",
+        "signal": "UP",
+        "result": "LOSS",
+        "pattern": "H1:UP_PULLBACK_UP|M15:UP_PULLBACK_UP|M30:UP_PULLBACK_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T08:15:14.514510",
+        "symbol": "USD/JPY",
+        "signal": "UP",
+        "result": "LOSS",
+        "pattern": "H1:UP_TREND_UP|M15:UP_PULLBACK_UP|M30:UP_TREND_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T08:30:12.149695",
+        "symbol": "GBP/USD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:DOWN_TREND_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_UP",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T08:30:15.828488",
+        "symbol": "AUD/USD",
+        "signal": "UP",
+        "result": "WIN",
+        "pattern": "H1:UP_TREND_DOWN|M15:DOWN_TREND_UP|M30:UP_PULLBACK_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T08:45:05.467789",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:NEUTRAL_range_FLAT|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_UP",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T08:45:08.440303",
+        "symbol": "USD/JPY",
+        "signal": "UP",
+        "result": "LOSS",
+        "pattern": "H1:UP_PULLBACK_UP|M15:UP_PULLBACK_UP|M30:UP_PULLBACK_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T09:15:12.824836",
+        "symbol": "GBP/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_UP",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T09:15:19.960095",
+        "symbol": "USD/CAD",
+        "signal": "DOWN",
+        "result": "LOSS",
+        "pattern": "H1:NEUTRAL_range_FLAT|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T09:15:23.256395",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:DOWN_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-27T09:30:14.438749",
+        "symbol": "USD/JPY",
+        "signal": "UP",
+        "result": "LOSS",
+        "pattern": "H1:UP_PULLBACK_UP|M15:UP_TREND_UP|M30:UP_PULLBACK_UP",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-30T18:00:06.639324",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:NEUTRAL_range_FLAT|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-30T18:00:09.197602",
+        "symbol": "GBP/USD",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_TREND_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-30T18:00:12.375883",
+        "symbol": "USD/JPY",
+        "signal": "UP",
+        "result": "LOSS",
+        "pattern": "H1:NEUTRAL_range_FLAT|M15:UP_PULLBACK_UP|M30:NEUTRAL_range_FLAT",
+        "strategy_pattern": "UP",
+        "regime": "default"
+    },
+    {
+        "time": "2026-03-30T18:30:07.644520",
+        "symbol": "USD/JPY",
+        "signal": "DOWN",
+        "result": "WIN",
+        "pattern": "H1:DOWN_PULLBACK_DOWN|M15:UP_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN",
+        "strategy_pattern": "DOWN",
+        "regime": "default"
+    }
+]

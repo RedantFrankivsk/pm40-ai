@@ -1,0 +1,194 @@
+{
+    "H1:DOWN_TREND_DOWN|M15:DOWN_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-26 22:15:07.594383"
+        }
+    ],
+    "H1:UP_TREND_UP|M15:UP_PULLBACK_UP|M30:UP_PULLBACK_UP": [
+        {
+            "signal": "UP",
+            "result": "LOSS",
+            "time": "2026-03-26 22:15:09.726597"
+        }
+    ],
+    "H1:DOWN_TREND_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-26 22:30:05.634162"
+        },
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-26 22:30:07.839407"
+        },
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-30 21:00:09.181926"
+        }
+    ],
+    "H1:UP_TREND_UP|M15:UP_TREND_UP|M30:UP_TREND_UP": [
+        {
+            "signal": "UP",
+            "result": "WIN",
+            "time": "2026-03-26 22:30:10.313648"
+        }
+    ],
+    "H1:DOWN_PULLBACK_DOWN|M15:DOWN_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-26 22:45:08.544681"
+        },
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-26 23:00:05.679756"
+        },
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-27 11:15:23.252555"
+        }
+    ],
+    "H1:UP_PULLBACK_UP|M15:UP_TREND_UP|M30:UP_PULLBACK_UP": [
+        {
+            "signal": "UP",
+            "result": "WIN",
+            "time": "2026-03-26 23:00:03.490221"
+        },
+        {
+            "signal": "UP",
+            "result": "LOSS",
+            "time": "2026-03-27 11:30:14.435319"
+        }
+    ],
+    "H1:NEUTRAL_range_FLAT|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-26 23:22:11.676326"
+        }
+    ],
+    "H1:UP_PULLBACK_UP|M15:UP_TREND_UP|M30:UP_TREND_UP": [
+        {
+            "signal": "UP",
+            "result": "WIN",
+            "time": "2026-03-26 23:22:13.866847"
+        }
+    ],
+    "H1:DOWN_PULLBACK_DOWN|M15:UP_PULLBACK_DOWN|M30:DOWN_PULLBACK_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-26 23:22:16.081239"
+        },
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-26 23:22:18.245368"
+        },
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-30 21:30:07.620467"
+        }
+    ],
+    "H1:UP_TREND_UP|M15:DOWN_TREND_UP|M30:UP_TREND_UP": [
+        {
+            "signal": "UP",
+            "result": "WIN",
+            "time": "2026-03-27 09:45:06.450365"
+        }
+    ],
+    "H1:DOWN_PULLBACK_DOWN|M15:UP_TREND_DOWN|M30:DOWN_PULLBACK_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-27 09:45:09.756528"
+        }
+    ],
+    "H1:DOWN_TREND_DOWN|M15:UP_TREND_DOWN|M30:DOWN_TREND_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-27 09:45:13.320662"
+        }
+    ],
+    "H1:DOWN_PULLBACK_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-27 09:45:16.773631"
+        }
+    ],
+    "H1:UP_PULLBACK_UP|M15:UP_PULLBACK_UP|M30:UP_PULLBACK_UP": [
+        {
+            "signal": "UP",
+            "result": "LOSS",
+            "time": "2026-03-27 09:45:20.784909"
+        },
+        {
+            "signal": "UP",
+            "result": "LOSS",
+            "time": "2026-03-27 10:45:08.436728"
+        }
+    ],
+    "H1:UP_TREND_UP|M15:UP_PULLBACK_UP|M30:UP_TREND_UP": [
+        {
+            "signal": "UP",
+            "result": "LOSS",
+            "time": "2026-03-27 10:15:14.510457"
+        }
+    ],
+    "H1:DOWN_TREND_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_UP": [
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-27 10:30:12.145027"
+        }
+    ],
+    "H1:UP_TREND_DOWN|M15:DOWN_TREND_UP|M30:UP_PULLBACK_UP": [
+        {
+            "signal": "UP",
+            "result": "WIN",
+            "time": "2026-03-27 10:30:15.824615"
+        }
+    ],
+    "H1:NEUTRAL_range_FLAT|M15:DOWN_TREND_DOWN|M30:DOWN_PULLBACK_UP": [
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-27 10:45:05.463963"
+        }
+    ],
+    "H1:DOWN_PULLBACK_DOWN|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_UP": [
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-27 11:15:12.821351"
+        }
+    ],
+    "H1:NEUTRAL_range_FLAT|M15:DOWN_TREND_DOWN|M30:DOWN_TREND_DOWN": [
+        {
+            "signal": "DOWN",
+            "result": "LOSS",
+            "time": "2026-03-27 11:15:19.956009"
+        },
+        {
+            "signal": "DOWN",
+            "result": "WIN",
+            "time": "2026-03-30 21:00:06.625728"
+        }
+    ],
+    "H1:NEUTRAL_range_FLAT|M15:UP_PULLBACK_UP|M30:NEUTRAL_range_FLAT": [
+        {
+            "signal": "UP",
+            "result": "LOSS",
+            "time": "2026-03-30 21:00:12.360183"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "EUR/USD_1774893650.523455",
+        "symbol": "EUR/USD",
+        "signal": "DOWN",
+        "entry_price": 1.14581,
+        "status": "OPEN",
+        "result": null,
+        "open_time": "2026-03-30T18:00:50.523455+00:00",
+        "expiration": 30,
+        "bet_size": 0.5,
+        "confidence": 0.2,
+        "tf_features": {
+            "M15": {
+                "signal": "DOWN",
+                "score": -2.5,
+                "trend": "DOWN",
+                "structure": "TREND",
+                "volatility": "normal"
+            },
+            "M30": {
+                "signal": "DOWN",
+                "score": -2.5,
+                "trend": "DOWN",
+                "structure": "TREND",
+                "volatility": "normal"
+            },
+            "H1": {
+                "signal": "DOWN",
+                "score": -2.5,
+                "trend": "DOWN",
+                "structure": "TREND",
+                "volatility": "normal"
+            }
+        }
+    },
+    {
+        "id": "GBP/USD_1774893686.055441",
+        "symbol": "GBP/USD",
+        "signal": "DOWN",
+        "entry_price": 1.31868,
+        "status": "OPEN",
+        "result": null,
+        "open_time": "2026-03-30T18:01:26.055441+00:00",
+        "expiration": 30,
+        "bet_size": 0.5,
+        "confidence": 0.2,
+        "tf_features": {
+            "M15": {
+                "signal": "DOWN",
+                "score": -2.5,
+                "trend": "DOWN",
+                "structure": "TREND",
+                "volatility": "normal"
+            },
+            "M30": {
+                "signal": "DOWN",
+                "score": -2.5,
+                "trend": "DOWN",
+                "structure": "TREND",
+                "volatility": "normal"
+            },
+            "H1": {
+                "signal": "DOWN",
+                "score": -2.5,
+                "trend": "DOWN",
+                "structure": "TREND",
+                "volatility": "normal"
+            }
+        }
+    }
+]

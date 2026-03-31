@@ -1,0 +1,22 @@
+[
+    {
+        "type": "trend_follow",
+        "weight": 3
+    },
+    {
+        "type": "breakout",
+        "weight": 2
+    },
+    {
+        "type": "volume_push",
+        "weight": 3
+    },
+    {
+        "type": "pullback",
+        "weight": 3
+    },
+    {
+        "type": "range_reversal",
+        "weight": 2
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "brain": "breakout_pullback_trend_market_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market"
+        ],
+        "signal": "UP",
+        "result": "win",
+        "timestamp": 1773732003
+    },
+    {
+        "brain": "breakout_pullback_trend_market_brain",
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market"
+        ],
+        "signal": "DOWN",
+        "result": "loss",
+        "timestamp": 1773732003
+    },
+    {
+        "brain": "low_volume_pullback_trend_market_volatility_high_brain",
+        "pattern": [
+            "low_volume",
+            "pullback",
+            "trend_market",
+            "volatility_high"
+        ],
+        "signal": "DOWN",
+        "result": null,
+        "timestamp": 1773732211
+    }
+]

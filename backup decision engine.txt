@@ -1,0 +1,31 @@
+import uuid
+
+def analyze_description(description: str) -> dict:
+    description_lower = description.lower()
+
+    signal = "NEUTRAL"
+    confidence = 50
+    strength = "WEAK"
+
+    if "восходящ" in description_lower or "рост" in description_lower:
+        signal = "UP"
+        confidence = 90
+        strength = "STRONG"
+
+    elif "нисходящ" in description_lower or "падает" in description_lower:
+        signal = "DOWN"
+        confidence = 90
+        strength = "STRONG"
+
+    if "флэт" in description_lower or "нет направления" in description_lower:
+        signal = "NEUTRAL"
+        confidence = 90
+        strength = "STRONG"
+
+    return {
+        "id": str(uuid.uuid4()),
+        "signal": signal,
+        "confidence": confidence,
+        "strength": strength,
+        "description": description
+    }

@@ -1,0 +1,68 @@
+[
+    {
+        "pattern": [
+            "breakout",
+            "low_volume",
+            "range_market"
+        ],
+        "trades": 88,
+        "winrate": 0.727,
+        "direction": "auto",
+        "status": "discovered"
+    },
+    {
+        "pattern": [
+            "normal_volume",
+            "pullback",
+            "range_market"
+        ],
+        "trades": 93,
+        "winrate": 0.72,
+        "direction": "auto",
+        "status": "discovered"
+    },
+    {
+        "pattern": [
+            "breakout",
+            "pullback",
+            "trend_market"
+        ],
+        "trades": 159,
+        "winrate": 0.692,
+        "direction": "auto",
+        "status": "discovered"
+    },
+    {
+        "pattern": [
+            "low_volume",
+            "pullback",
+            "trend_market"
+        ],
+        "trades": 174,
+        "winrate": 0.661,
+        "direction": "auto",
+        "status": "discovered"
+    },
+    {
+        "pattern": [
+            "breakout",
+            "normal_volume",
+            "range_market"
+        ],
+        "trades": 76,
+        "winrate": 0.645,
+        "direction": "auto",
+        "status": "discovered"
+    },
+    {
+        "pattern": [
+            "low_volume",
+            "normal_volume",
+            "range_market"
+        ],
+        "trades": 77,
+        "winrate": 0.623,
+        "direction": "auto",
+        "status": "discovered"
+    }
+]
